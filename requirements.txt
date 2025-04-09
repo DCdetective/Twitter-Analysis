@@ -3,6 +3,8 @@ twikit
 seaborn
 emoji
 wordcloud
+xgboost
+lightgbm
 aiobotocore
 aiohappyeyeballs==2.3.4
 aiohttp==3.10.0
